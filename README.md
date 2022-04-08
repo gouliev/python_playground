@@ -1,4 +1,5 @@
-# python_playground
+# python_playground - These are old 2021 starter python assignments I did, made some rookie mistakes -- but most importantly, I learned from them.
+
 Playing around with Python sssssssh
 COMP10280-Programming I (Conv)-2021/22 Autumn
 On successful completion of this module students should:
